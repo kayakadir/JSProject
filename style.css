@@ -154,13 +154,13 @@ button:focus {
 
 .modal-header {
   background: var(--primary-color);
-  color: hsl(0, 0%, 100%);
+  color: #ffffff;
   padding: 15px;
 }
 
 .modal-header h3 {
   margin: 0;
-  border-bottom: 2px solid #333333;
+  border-bottom: 1px solid #333333;
 }
 
 .modal-content {
